@@ -93,3 +93,8 @@ body {
 p {
     font-size: 1rem;
 }
+
+#boto {
+    background: rgb(158, 198, 12);
+    border-radius: 40px;
+}
