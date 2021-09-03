@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(237, 238, 239);
+}
+
+#nav {
+    background: rgb(158, 198, 12);
+}
+
+#logo {
+    width: 70%;
+    margin: 5%;
+}
+
+#ban {
+    background-image: url(../../img/banner1.png);
+    background-size: cover;
+}
+
+#titt {
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
+
+#ti {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, serif;
+    font-size: 50px;
+    letter-spacing: 0.2px;
+    word-spacing: -1px;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize;
+}
+
+#pa {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, serif;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    word-spacing: -1px;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize;
+}
+
+#par {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    letter-spacing: 1.0px;
+    word-spacing: 0.6px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+#pp {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(255, 255, 255);
+}
+
+#cuadro {
+    background: rgb(255, 255, 255);
+    padding: 5%;
+}
+
+#blo {
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 2px 18px -2px rgba(0, 0, 0, 0.67);
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+#blo.hover {
+    background: rgb(216, 213, 213);
+    box-shadow: 0px 2px 18px -2px rgba(0, 0, 0, 0.67);
+    padding: 2%;
+}
+
+#blo,
+p {
+    font-size: 1rem;
+}
